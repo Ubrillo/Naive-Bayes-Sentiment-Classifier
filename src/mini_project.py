@@ -1,7 +1,5 @@
 
 
-#"Student ID": '21085920'
-
 import nltk #import nltk library for preprocessing
 nltk.download('punkt')
 nltk.download('punkt_tab')
